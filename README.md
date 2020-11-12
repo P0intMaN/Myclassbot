@@ -4,12 +4,12 @@
 
 ## INTRODUCTION
 
-**_Myclassbot_** is a bot that can  **attend online class.** This Bot was created for my own purpose, but you can edit this as per your wish and requirements. For those who are studing in LPU, they may just simply input their registration number and password. Then run it and Let **_Myclassbot_** do the job.
+**_Myclassbot_** is a bot that can  **attend online class.** This Bot was created for my own purpose, but you can edit this as per your wish and requirements. For those who are studying in LPU, they may just simply input their registration number and password. Then run it and Let **_Myclassbot_** do the job.
 
 
-## WARNING
+## WISE MAN ONCE SAID...
 
-**_I strongly recommend everyone to attend their online classes or meetings with sincerity. Its for your own good. Don't Blame Myclassbot when your grades and marks are really low since you didnt pay any attention to the stuffs that are taught in the class (Unless you are pro or somethihng). I also discourage frequent usage of Myclassbot as it would adversely affect you since you are not studying at all. However, if you are still considering to use Myclassbot, then ALL THE BEST FOR YOUR FINAL EXAM RESULTS._** 😂  
+**_Always attend your online classes/ meetings with sincerity to see fruitful results._** Hence, I also strongly recommend this to all!   
 
 ## DETAILS
 
@@ -60,9 +60,9 @@
 $ git clone https://github.com/P0intMaN/Impulse.git
 $ chmod +x requirements.txt
 $ sudo pip3 install -r requirements.txt
-$ cd Impulse
+$ cd Myclassbot
 $ ls
-$ python3 impulse.py
+$ python3 myclassbot.py
  ```
 
 - **_Myclassbot_** is ready for some action!!
@@ -72,7 +72,7 @@ $ python3 impulse.py
 
 Want to improve **_Myclassbot_** ? Then feel free to download my source code and experiment.
 
-The **source code** is attached above (see 'impulse.py' ) .
+The **source code** is attached above (see 'myclassbot.py' ) .
 
 **Before downloading**, **_Follow me_** as It would motivate me to do more.  So **_Developers_**, go ahead follow me and help improve **_Myclassbot_** 👍
 
@@ -83,7 +83,7 @@ If you want to suggest some necessary changes, **then please don't hesitate to c
 
 ## DISCLAIMER 
 
-**_Myclassbot_ is meant for Experimental Purposes only. Please dont blame me for your low grades at the end of your sessional exams.😆**
+**_Myclassbot_ is meant for Experimental Purposes only. Please dont blame me for your low grades at the end of your sessional exams.**
 
 *Please follow me on Github and dont forget to **'STAR' this project**. I will keep making such projects for you in the future.*
 
