@@ -39,6 +39,8 @@
 
 - Download the **_Myclassbot_** packet here from Github as a zip format.
 
+- Install chrome driver. If you dont know, [**Click Here to learn (hardly takes 3 min)**](https://www.youtube.com/watch?v=dz59GsdvUF8)
+
 - Replace the *regnohere* and *passwordhere* with **your credentials**
 
 - Extract it and navigate to your desired location.
