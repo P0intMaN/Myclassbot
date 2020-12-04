@@ -1,5 +1,5 @@
 # Myclassbot
-###### Developed by Pratheek 'The P0intMaN'
+###### Developed by 'The P0intMaN'
 
 
 ## INTRODUCTION
