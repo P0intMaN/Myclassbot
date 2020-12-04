@@ -76,7 +76,7 @@ Want to improve **_Myclassbot_** ? Then feel free to download my source code and
 
 The **source code** is attached above (see 'myclassbot.py' ) .
 
-**Before downloading**, **_Follow me_** as It would motivate me to do more.  So **_Developers_**, go ahead follow me and help improve **_Myclassbot_** 👍
+**Before downloading**, conisder **_Following me_** as It would motivate me to do more.  So **_Developers_**, go ahead follow me and help improve **_Myclassbot_** 👍
 
 If you want to suggest some necessary changes, **then please don't hesitate to contact me.**
 
