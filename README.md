@@ -59,7 +59,7 @@
 
 - Type:
  ```
-$ git clone https://github.com/P0intMaN/Impulse.git
+$ git clone https://github.com/P0intMaN/Mycalssbot.git
 $ chmod +x requirements.txt
 $ sudo pip3 install -r requirements.txt
 $ cd Myclassbot
