@@ -1,5 +1,6 @@
 # Myclassbot
 ###### Developed by 'The P0intMaN'
+![](https://komarev.com/ghpvc/?username=P0intMaN&label=REPO+VIEWS) 
 
 
 ## INTRODUCTION
